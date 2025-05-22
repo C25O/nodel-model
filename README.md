@@ -72,7 +72,7 @@ Community Support:
 
 ## Recommended Tech Stack
 
-#### Frontend
+### Frontend
  - Framework: React.js / Next.js
  - UI & Components: Tailwind CSS, shadcn/ui
  - Visualization & Interaction: React Flow, React DnD, Framer Motion
@@ -84,7 +84,7 @@ Community Support:
  - Authentication: NextAuth.js or Passport.js
  - AI Generation: OpenAI GPT API
 
-#### Database & Storage
+### Database & Storage
  - Primary: Supabase / PostgreSQL or MongoDB
  - Caching & Quick Access: Redis
  - Semantic Data: Neo4j
