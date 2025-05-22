@@ -9,7 +9,7 @@ A web-based software architecture visualization and simulation studio designed t
 
 ## Technical Requirements Documentation
 
-#### 1. Model Management
+### 1. Model Management
 
 Adding Models:
  - Allow users to add models from various software and cloud engineering domains.
@@ -27,11 +27,11 @@ Model Customization:
  - Users can describe models according to specific use cases and project vision.
  - Include AI assistance (triggered via Lightning Bolt icon) to automatically generate model descriptions.
 
-#### 2. Model Integration and Aggregation
+### 2. Model Integration and Aggregation
  - Integrate and aggregate models effectively to align with user-defined technical architectures and solutions.
  - Enable seamless combination of multiple models for complex system designs using a node-edge visual interface.
 
-#### 3. Architectural Visualization and Analysis
+### 3. Architectural Visualization and Analysis
 Lens Views:
  - Provide multiple lenses for different analysis perspectives (e.g., cost analysis lens).
 
@@ -56,18 +56,18 @@ Manual Saving:
 Simulation Metadata:
  - Allow recording of simulation metadata and project-level details.
 
-#### 5. Import/Export Capabilities
+### 5. Import/Export Capabilities
 Image Export:
  - Export system visualizations as images for integration into documentation, presentations, or printing.
 
-#### 6. User Assistance and Orientation
+### 6. User Assistance and Orientation
 Interactive Orientation:
  - Include an interactive orientation accessible via an "Information Tab" for studio navigation and feature explanation.
 
 Community Support:
  - Provide direct contact via community support email for user inquiries and feedback.
 
-#### 7. Data Responsibility
+### 7. Data Responsibility
  - Ensure complete user control over data, clearly communicating that users are fully responsible for data management and security.
 
 ## Recommended Tech Stack
