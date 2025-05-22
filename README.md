@@ -7,7 +7,7 @@ A web-based software architecture visualization and simulation studio, based on 
 
 A web-based software architecture visualization and simulation studio designed to support software engineers and architects in modeling, integrating, and analyzing complex technical systems. It offers an intuitive node-edge visual workspace, drag-and-drop model selection, interactive descriptions with AI-assistance, and multiple analytical views, enabling precise architectural planning and effective communication. With robust data handling, local caching, and versatile export functionalities, the platform ensures users remain fully in control of their data and simulations.
 
-##$ Technical Requirements Documentation
+## Technical Requirements Documentation
 
 #### 1. Model Management
 
